@@ -5,3 +5,6 @@ Postdoctoral Researcher at the Netherlands Institute for the Study of Crime and 
 
 This repository contains the materials used in the NSC-R Workshop on RMarkdown held on *6 July 2021*.
 
+`nscr_workshop` is the main folder and contains two folders:
+* `scripts` , and
+* `templates`
